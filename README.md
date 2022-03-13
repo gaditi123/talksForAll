@@ -1,4 +1,4 @@
-# connectcollege
+# talksForAll
 
 A new Flutter application.
 
